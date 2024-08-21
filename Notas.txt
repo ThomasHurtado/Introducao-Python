@@ -1,0 +1,4 @@
+Pedro: 8.0
+Maria: 7.3
+Jose: 10.0
+Ana: 10.0
